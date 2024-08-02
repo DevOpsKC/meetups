@@ -1,3 +1,5 @@
+<img src="/logos/Color/DevOps-logo-stacked-color.png" width="200">
+
 # DevOps KC Meetups
 
 Repo for the DevOps KC meetups, where we'll track planning, ideas, content, etc.
